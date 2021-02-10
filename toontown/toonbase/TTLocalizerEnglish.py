@@ -4152,7 +4152,7 @@ AvatarChoiceDeletePasswordOK = lOK
 AvatarChoiceDeletePasswordCancel = lCancel
 AvatarChoiceDeleteWrongPassword = 'That password does not seem to match.  To delete this Toon, enter your password.'
 AvatarChoiceDeleteWrongConfirm = 'You did not type the right thing.  To delete %(name)s, type "%(confirm)s" and click OK.  Do not type the quotation marks.  Click Cancel if you have changed your mind.'
-AvatarChooserPickAToon = 'Pick  A  Toon  To  Play'
+AvatarChooserPickAToon = 'Pick  A  Toon  To  Play  You  Loser!'
 AvatarChooserQuit = lQuit
 DateOfBirthEntryMonths = ['Jan',
  'Feb',
@@ -6956,7 +6956,7 @@ CatalogExitButtonText = 'Hang Up'
 CatalogCurrentButtonText = 'To Current Items'
 CatalogPastButtonText = 'To Past Items'
 TutorialHQOfficerName = 'HQ Harry'
-NPCToonNames = {20000: 'Tutorial Tom',
+NPCToonNames = {20000: 'Resistance Ranger Tom',
  999: 'Toon Tailor',
  1000: lToonHQ,
  20001: Flippy,

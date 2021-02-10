@@ -224,20 +224,20 @@ def isZoneProtected(zoneId):
 lnames = TTLocalizer.NPCToonNames
 NPCToonDict = {20000: (-1,
          lnames[20000],
-         ('dll',
-          'ms',
-          'm',
-          'm',
-          7,
-          0,
-          7,
-          7,
-          2,
-          6,
-          2,
-          6,
-          2,
-          16),
+         ('cll', # head code
+          'ms', # torso
+          'm', # leg size
+          'm', # gender
+          7, # head color
+          0, # glove color
+          7,  # torso color
+          7, # leg color
+          111, # shirt texture
+          27, # shirt color
+          98, # sleeve texture
+          27, # sleeve texture color
+          41, # bottom texture
+          27), # bottom texture color
          'm',
          1,
          NPC_REGULAR),
